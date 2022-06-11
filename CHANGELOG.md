@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.2.1] - (11-06-2022)
+fix: (3c62feb) Bump gitlab CI working tag to v0.5.3
+
 ## [0.2.0] - (04-05-2022)
 feat: (c9d52e2) Add base docker Utilities (#4)
 
