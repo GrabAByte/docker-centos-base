@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.3.0] - (13-02-2023)
+feat: (c32a123) bump packages and use DNF package manager (#5)
+
 ## [0.2.1] - (11-06-2022)
 fix: (3c62feb) Bump gitlab CI working tag to v0.5.3
 
