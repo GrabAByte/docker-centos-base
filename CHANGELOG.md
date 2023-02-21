@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.4.0] - (21-02-2023)
+feat: (e3da1af) Add programming languages into base for package management (#6)
+
 ## [0.3.0] - (13-02-2023)
 feat: (c32a123) bump packages and use DNF package manager (#5)
 
