@@ -3,7 +3,7 @@ FROM docker.io/centos:8.4.2105
 LABEL devops.grababyte.image.authors="GrabAByte"
 
 ARG USER=centos
-ENV ID 1000
+ENV ID=1000
 
 RUN \
   sed -i 's/mirrorlist/#mirrorlist/g' /etc/yum.repos.d/CentOS-* && \
