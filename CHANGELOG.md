@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.4.1] - (23-05-2024)
+fix: (2439203) bump the workflows to latest version of 0.6.4 (#7)
+
 ## [0.4.0] - (21-02-2023)
 feat: (e3da1af) Add programming languages into base for package management (#6)
 
