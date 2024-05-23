@@ -16,6 +16,7 @@ RUN \
     npm-6.14.11 \
     openssh-8.0p1 \
     python36-3.6.8 \
+    python3-pip-9.0.3 \
     ruby-2.5.9 \
     sudo-1.8.29 \
     unzip-6.0 \
