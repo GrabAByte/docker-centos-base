@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.4.2] - (12-09-2024)
+fix: (88edc6d) Add MIT License
+
 ## [0.4.1] - (23-05-2024)
 fix: (2439203) bump the workflows to latest version of 0.6.4 (#7)
 
